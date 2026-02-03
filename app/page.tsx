@@ -27,11 +27,11 @@ const rawData = [
   {
     name: "Atkia Nawar Anisha",
     email: "atkianawaranisha@gmail.com",
-    photo: "https://i.ibb.co/Zpb6jvN5/anisha1.png",
+    photo: "https://i.ibb.co/LXMMKRfP/anisha2.jpg",
     id: "CSE2401031093",
     phone: "01755380844",
     section: "31M1",
-    score: 25
+    score: 40
   },
   {
     name: "Ashraful Haque",
@@ -39,7 +39,7 @@ const rawData = [
     id: "CSE2401031137",
     phone: "01635-047881",
     section: "31M1",
-    score: 25
+    score: 36
   },
   {
     name: "Pranto Paul",
@@ -53,10 +53,11 @@ const rawData = [
   {
     name: "Ashra Siddiqa Yeantun",
     email: "ayeantun@gmail.com",
+    photo: "https://i.ibb.co/SDJP7qFb/ashra1.jpg",
     id: "CSE2401031182",
     phone: "01590084318",
     section: "31M1",
-    score: 25
+    score: 35
   },
   {
     name: "Md.khalequzzaman",
@@ -65,7 +66,7 @@ const rawData = [
     id: "CSE2401031091",
     phone: "01618225641",
     section: "31M1",
-    score: 25
+    score: 36
   },
 
 ]
