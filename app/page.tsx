@@ -14,11 +14,12 @@ const rawData = [
     id: "CSE2401031096",
     phone: "01606090890",
     section: "31M1",
-    score: 25
+    score: 35
   },
   {
     name: "Asif Karim Ornob",
     email: "ornobasifkarim@gmail.com",
+    photo: "https://i.ibb.co/fVDNjrQ4/ornob1.jpg",
     id: "CSE2401031169",
     phone: "01906428465",
     section: "31M1",
@@ -31,11 +32,12 @@ const rawData = [
     id: "CSE2401031093",
     phone: "01755380844",
     section: "31M1",
-    score: 40
+    score: 45
   },
   {
     name: "Ashraful Haque",
     email: "ashrafulhaque1004@gmail.com",
+    photo: "https://i.ibb.co/qFnnK3Fj/ashraful1.jpg",
     id: "CSE2401031137",
     phone: "01635-047881",
     section: "31M1",
@@ -57,16 +59,25 @@ const rawData = [
     id: "CSE2401031182",
     phone: "01590084318",
     section: "31M1",
-    score: 35
+    score: 40
   },
   {
-    name: "Md.khalequzzaman",
+    name: "Nabil",
     email: "khalequzzaman26@gmail.com",
     photo: "https://i.ibb.co/20kNWkb2/khalequzzaman1.png",
     id: "CSE2401031091",
     phone: "01618225641",
     section: "31M1",
-    score: 36
+    score: 46
+  },
+  {
+    name: "Bushra Binte Reza",
+    email: "bbushu8@gmail.com",
+    photo: "https://i.ibb.co/z1LCG0R/bushra1.jpg",
+    id: "CSE2401031001",
+    phone: "01756590241",
+    section: "31M1",
+    score: 10
   },
 
 ]
