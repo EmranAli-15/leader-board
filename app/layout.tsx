@@ -9,8 +9,8 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Programming Leaderboard",
-  description: "Leaderboard for coders",
+  title: "31M1 - Programmer",
+  description: "Leaderboard for 31M1 students.",
 };
 
 export default function RootLayout({

@@ -14,7 +14,7 @@ const rawData = [
     id: "CSE2401031096",
     phone: "01606090890",
     section: "31M1",
-    score: 35
+    score: 45
   },
   {
     name: "Asif Karim Ornob",
@@ -41,7 +41,7 @@ const rawData = [
     id: "CSE2401031137",
     phone: "01635-047881",
     section: "31M1",
-    score: 36
+    score: 46
   },
   {
     name: "Pranto Paul",
@@ -68,7 +68,7 @@ const rawData = [
     id: "CSE2401031091",
     phone: "01618225641",
     section: "31M1",
-    score: 46
+    score: 56
   },
   {
     name: "Bushra Binte Reza",
@@ -77,7 +77,16 @@ const rawData = [
     id: "CSE2401031001",
     phone: "01756590241",
     section: "31M1",
-    score: 10
+    score: 45
+  },
+  {
+    name: "Sumaya Akter Rini",
+    email: "sumayarahman165@gmail.com",
+    photo: "https://i.ibb.co/VWvPBc5F/rini1.jpg",
+    id: "CSE2203027042",
+    phone: "01835531291",
+    section: "31M1",
+    score: 5
   },
 
 ]
